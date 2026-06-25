@@ -57,7 +57,7 @@ https://username.github.io/computer-science-portfolio/
 
 ## 📂 Project Structure
 
-Computer-Science-Portfolio
+``Computer-Science-Portfolio
 
 │
 ├── index.html
@@ -73,7 +73,7 @@ Computer-Science-Portfolio
 ├── Report
 │ ├── portfolio_report.tex
 │ └── portfolio_report.pdf
-
+``
 
 
 
