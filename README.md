@@ -73,9 +73,7 @@ Computer-Science-Portfolio
 ├── Report
 │   ├── portfolio_report.tex
 │   └── portfolio_report.pdf
-│
-└── README.md
-    └── Project documentation
+
 ```
 
 
