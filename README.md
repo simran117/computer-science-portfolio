@@ -23,13 +23,7 @@ The portfolio is designed as a professional profile for working student opportun
 
 🔗 Portfolio Website:
 
-Add your GitHub Pages link here
-
-Example:
-
-https://username.github.io/computer-science-portfolio/
-
-
+https://simran117.github.io/computer-science-portfolio/
 
 ## 🚀 Features
 
