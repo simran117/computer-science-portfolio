@@ -57,23 +57,26 @@ https://username.github.io/computer-science-portfolio/
 
 ## 📂 Project Structure
 
-``Computer-Science-Portfolio
-
+```text
+Computer-Science-Portfolio
 │
 ├── index.html
-│ └── Main portfolio webpage
+│   └── Main portfolio webpage
 │
 ├── style.css
-│ └── Website styling and layout
+│   └── Website styling and layout
 │
 ├── CV
-│ ├── resume.tex
-│ └── resume.pdf
+│   ├── resume.tex
+│   └── resume.pdf
 │
 ├── Report
-│ ├── portfolio_report.tex
-│ └── portfolio_report.pdf
-``
+│   ├── portfolio_report.tex
+│   └── portfolio_report.pdf
+│
+└── README.md
+    └── Project documentation
+```
 
 
 
